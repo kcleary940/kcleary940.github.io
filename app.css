@@ -3,6 +3,20 @@
   height: auto !important;
 
 }
+/* Text colour of headings, cells and links */
+div#auction-nudge-items table.columns th,
+div#auction-nudge-items table.columns td,			
+div#auction-nudge-items table.columns td a {
+	color: #fff;
+}
+/* Add a white border between rows */
+div#auction-nudge-items table.columns td {
+  border-top: 1px solid black;			
+}
+/* Every other row */			
+div#auction-nudge-items table.columns tr.alt {
+	background-color:rgb(218, 212, 206)e;
+}
 div#auction-nudge-items .an-title  {
 text-align: center !important;  
 }
