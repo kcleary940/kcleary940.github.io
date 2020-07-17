@@ -5,11 +5,11 @@ body {
   width: 100%;
   height: auto;
 }
-#auction-nudge-items .an-title  {
+div#auction-nudge-items .an-title  {
     color: green;
   }
   /* The price */
-#auction-nudge-items .an-price {
+div#auction-nudge-items .an-price {
     color: red;
     font-size: 30px;
     font-weight: bold;
@@ -26,7 +26,7 @@ body {
   div#auction-nudge-items .an-view a {
     color: orange;
  }
- #auction-nudge-items .image-container img {
+ div#auction-nudge-items .image-container img {
     /* Change this number to match the specified the 'image size' value */
     width: 250px !important; 
   }
