@@ -18,12 +18,12 @@ text-align: center !important;
   /* Time left label */
   div#auction-nudge-items .an-ends .an-label {
     color: green;
-    visibility: hidden;
+    
   }
   /* Time left */
   div#auction-nudge-items .an-ends .an-time {
-    color: purple;
-    visibility: hidden;
+    color:green;
+    
   }
   /* View item link */
   div#auction-nudge-items .an-view a {
@@ -43,5 +43,5 @@ div#auction-nudge-items div#an-search-submit {
 }	
 h1 {
 text-align: center;
-font-size: 20px;
+font-size: 18px;
 }
