@@ -1,4 +1,7 @@
-
+img {
+  width: 100%;
+  height: auto;
+}
 div#auction-nudge-items .an-title  {
     color: green;
   }
