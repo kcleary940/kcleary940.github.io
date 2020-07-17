@@ -12,6 +12,9 @@ text-align: center !important;
     font-size: 25px;
     font-weight: bold;
   }
+  div#auction-nudge-items table.columns td {
+    border-top: 15px solid antiquewhite;			
+  }
   /* Time left label */
   div#auction-nudge-items .an-ends .an-label {
     color: green;
