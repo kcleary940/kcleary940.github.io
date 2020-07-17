@@ -1,12 +1,15 @@
 .centerlogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 100%;
   height: auto;
 }
-div#auction-nudge-items .an-title  {
+#auction-nudge-items .an-title  {
     color: green;
   }
   /* The price */
-  div#auction-nudge-items .an-price {
+#auction-nudge-items .an-price {
     color: red;
     font-size: 30px;
     font-weight: bold;
