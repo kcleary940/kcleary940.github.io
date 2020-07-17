@@ -14,17 +14,15 @@ div#auction-nudge-items .an-title  {
   }
   /* Time left label */
   div#auction-nudge-items .an-ends .an-label {
-    color: green;
     visibility: hidden;
   }
   /* Time left */
   div#auction-nudge-items .an-ends .an-time {
-    color: purple;
     visibility: hidden;
   }
   /* View item link */
   div#auction-nudge-items .an-view a {
-    color: orange;
+    visibility: hidden;
  }
  #auction-nudge-items .image-container img {
     /* Change this number to match the specified the 'image size' value */
