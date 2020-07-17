@@ -8,21 +8,23 @@ div#auction-nudge-items .an-title  {
   }
   /* The price */
   div#auction-nudge-items .an-price {
-    color: red;
+    color:rgb(241, 28, 28);
     font-size: 25px;
     font-weight: bold;
   }
   /* Time left label */
   div#auction-nudge-items .an-ends .an-label {
+    color: green;
     visibility: hidden;
   }
   /* Time left */
   div#auction-nudge-items .an-ends .an-time {
+    color: purple;
     visibility: hidden;
   }
   /* View item link */
   div#auction-nudge-items .an-view a {
-    visibility: hidden;
+    color: orange;
  }
  #auction-nudge-items .image-container img {
     /* Change this number to match the specified the 'image size' value */
@@ -35,3 +37,7 @@ div#auction-nudge-items div#an-search-submit {
 	background-color: #143244;
 	color: white;
 }	
+h1 {
+text-align: center;
+font-size: 22px;
+}
