@@ -4,8 +4,8 @@
 
 }
 div#auction-nudge-items .an-title  {
-    color: green;
-  }
+text-align: center !important;  
+}
   /* The price */
   div#auction-nudge-items .an-price {
     color:rgb(241, 28, 28);
