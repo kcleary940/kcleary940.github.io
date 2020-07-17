@@ -37,7 +37,7 @@ text-align: center !important;
 
 /* Change the background colour to blue and the text to white */
 div#auction-nudge-items div#an-search-submit {
-    font-size: 25px;
+    font-size: 20px;
 	background-color: #143244;
 	color: white;
 }	
