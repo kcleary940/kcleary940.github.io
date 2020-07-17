@@ -1,17 +1,15 @@
-body {
-  background-color: antiquewhite;
-}
 .centerlogo {
-  display: block;
+   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 100%;
+  height: auto;
 }
 div#auction-nudge-items .an-title  {
     color: green;
   }
   /* The price */
-div#auction-nudge-items .an-price {
+  div#auction-nudge-items .an-price {
     color: red;
     font-size: 30px;
     font-weight: bold;
@@ -28,7 +26,7 @@ div#auction-nudge-items .an-price {
   div#auction-nudge-items .an-view a {
     color: orange;
  }
- div#auction-nudge-items .image-container img {
+ #auction-nudge-items .image-container img {
     /* Change this number to match the specified the 'image size' value */
     width: 250px !important; 
   }
