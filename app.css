@@ -25,6 +25,7 @@ text-align: center !important;
   /* View item link */
   div#auction-nudge-items .an-view a {
     color: orange;
+    font-size: 20px;
  }
  #auction-nudge-items .image-container img {
     /* Change this number to match the specified the 'image size' value */
@@ -39,5 +40,5 @@ div#auction-nudge-items div#an-search-submit {
 }	
 h1 {
 text-align: center;
-font-size: 10px;
+font-size: 15px;
 }
