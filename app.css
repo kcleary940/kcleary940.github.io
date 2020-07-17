@@ -18,17 +18,17 @@ text-align: center !important;
   /* Time left label */
   div#auction-nudge-items .an-ends .an-label {
     color: green;
-    
+    font-size: 18px;
   }
   /* Time left */
   div#auction-nudge-items .an-ends .an-time {
     color:green;
-    
+    font-size: 16px;
   }
   /* View item link */
   div#auction-nudge-items .an-view a {
     color: orange;
-    font-size: 20px;
+    font-size: 18px;
  }
  #auction-nudge-items .image-container img {
     /* Change this number to match the specified the 'image size' value */
