@@ -60,7 +60,7 @@ font-size: 16px;
 font-family: 'Cinzel', serif;
 }
 @media only screen and (max-width: 600px) {
-  .centerlogo {
+  img.centerlogo {
 width:50%;
 height: auto;
   }
