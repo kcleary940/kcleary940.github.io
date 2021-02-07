@@ -66,7 +66,7 @@ font-family: 'Cinzel', serif;
   background-color: #333;
   text-align: center;
   overflow: hidden;
-  margin-bottom: 10px;
+  margin-bottom: 25px;
 }
 
 /* Style the links inside the navigation bar */
@@ -78,9 +78,6 @@ font-family: 'Cinzel', serif;
   text-decoration: none;
   font-size:17px;
 
-}
-.home {
-  color: aqua;
 }
 /* Add a color to the active/current link */
 .topnav a.active {
